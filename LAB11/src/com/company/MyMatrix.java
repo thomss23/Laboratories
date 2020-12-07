@@ -25,9 +25,4 @@ public class MyMatrix implements Sumabil {
         this.sum = this.sum + matrix2.getSum();
     }
 
-    public static int sumTotal(Sumabil c){
-        for(Integer num : ){
-
-        }
-    }
 }
