@@ -50,8 +50,6 @@ public class Invoker {
             System.out.println("Can't undo!");
         }
 
-        // Do not use the java.util.Stack, its implementation is based on vector which is inefficient and deprecated.
-        // Use a class that implements the Deque interface, e.g. LinkedList https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Deque.html
 
     }
 
