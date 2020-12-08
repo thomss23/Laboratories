@@ -13,7 +13,7 @@ Create a package *"task2"*.Inside you should create the following classes:
 * **Course**
   * with the following properties: *title* (String), *description* (String), *students* (arraylist of type Student)
   * create a method *filteryear* which returns a list of students that belong to a certain year that is given as a parameter to the function.
-* **Test** - where the main method should be.
+* **Main** - where the main method should be.
   1. Create a *Course* object and 3-4 *Student* objects. Populate the *Course* object.
   2. Run your code and print all the students that belong to a certain year.
   
