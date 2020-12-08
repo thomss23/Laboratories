@@ -21,7 +21,7 @@ Implement a *PasswordMaker* class that generates, using *RandomStringGenerator* 
 ### Task 3
 
 Implement a *MyImmutableArray* class that contains:
-  * a field *ArrayList<Integer> immutableArray; uninstantiated in the first phase
+  * a field ArrayList<Integer<Integer>> immutableArray uninstantiated in the first phase
   * a constructor that takes an ArrayList<Integer> and copies all elements from that array in immutableArray
   * a method *getArray()* that makes sure the field *immutableArray* remains immutable
 
