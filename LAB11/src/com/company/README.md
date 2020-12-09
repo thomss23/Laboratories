@@ -1,5 +1,5 @@
 # Laboratory 11
 
 * Implement your own version of a HashMap using generics. 
-* Name your class *MyHashMap* and implement the *put* and *add*.
+* Name your class *MyHashMap* and implement the *put* and *add* methods.
 * Test your implementation.
