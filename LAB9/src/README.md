@@ -1,4 +1,4 @@
-# Design Patterns lab part 1: Factory, Observer, Strategy
+# Design Patterns lab: Factory, Observer, Strategy
 
 Design a mock application that receives data (step counts) and has components that process it.
 
